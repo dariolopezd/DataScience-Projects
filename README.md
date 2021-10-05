@@ -1,7 +1,6 @@
 # DataScience-Projects
-Personal Data Science projects developed on Deepnote notebook.   
-
-All the projects are public and shared via Deepnote notebooks. 
+Personal Data Science projects developed on Deepnote notebook. 
+The complete list is accesible at:  https://deepnote.com/@dario-lopez-diaz    
 
 Demographic Data Analizer 
 https://deepnote.com/@dario-lopez-diaz/Demographic-data-analizer-FCC-Project-2-yvDucxesQDWRJnVCaYyHEg
